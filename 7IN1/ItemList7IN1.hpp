@@ -177,8 +177,6 @@
 	class sab_trimotor				    	        { quality = 1; price = 164; };
 	class sab_zlin					                { quality = 1; price = 165; };
 	class sab_faallegro					            { quality = 1; price = 167; };
-	class sab_wwi_zeppelin					        { quality = 1; price = 168; };
-	class sab_wwi_blimp				                { quality = 1; price = 169; };
 	class sab_fokkerdii				    	        { quality = 1; price = 170; };
 	class sab_fokkereiii					        { quality = 1; price = 171; };
 	class sab_fokkervii				    	        { quality = 1; price = 172; };

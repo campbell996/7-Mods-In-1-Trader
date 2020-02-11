@@ -193,8 +193,6 @@
 			"sab_trimotor",
 			"sab_zlin",
 			"sab_faallegro",
-			"sab_wwi_zeppelin",
-			"sab_wwi_blimp",
 			"sab_fokkerdii",
 			"sab_fokkereiii",
 			"sab_fokkervii",
