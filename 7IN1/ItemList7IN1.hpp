@@ -25,7 +25,6 @@
 	class walker_a3_dingo					        { quality = 1; price = 16; };
 	class walker_a3_gaz				    	        { quality = 1; price = 17; };
 	class walker_a3_gazblue					        { quality = 1; price = 18; };
-	class walker_a3_gazblack					    { quality = 1; price = 19; };
 	class walker_a3_gaztblue				        { quality = 1; price = 20; };
 	class walker_a3_gaztred				    	    { quality = 1; price = 21; };
 	class walker_a3_gaztwhite					    { quality = 1; price = 22; };
@@ -144,9 +143,6 @@
 	class sab_tigercat_b					        { quality = 1; price = 131; };
 	class sab_tigercat_c					        { quality = 1; price = 132; };
 	class sab_m6a_o				                    { quality = 1; price = 133; };
-	class sab_avio_o				    	        { quality = 1; price = 134; };
-	class sab_avio_b					            { quality = 1; price = 135; };
-	class sab_avio_c				    	        { quality = 1; price = 136; };
 
     ///////////////////////////////////////////////////////////////////////////////
 	//SABPlanes
@@ -260,14 +256,11 @@
 	class sab_ms406				    	            { quality = 1; price = 248; };
 	class sab_mustang					            { quality = 1; price = 249; };
 	class sab_mustang_civ				    	    { quality = 1; price = 250; };
-	class sab_natter					            { quality = 1; price = 251; };
-	class sab_natter2					            { quality = 1; price = 252; };
 	class sab_p26				                    { quality = 1; price = 253; };
 	class sab_p38				    	            { quality = 1; price = 254; };
 	class sab_p39					                { quality = 1; price = 255; };
 	class sab_p51b				    	            { quality = 1; price = 256; };
 	class sab_p61					                { quality = 1; price = 257; };
-	class sab_s510					                { quality = 1; price = 258; };
 	class sab_ki100				                    { quality = 1; price = 259; };
 
 	///////////////////////////////////////////////////////////////////////////////

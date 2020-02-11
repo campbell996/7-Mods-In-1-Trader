@@ -31,7 +31,6 @@
 			"walker_a3_dingo",
 			"walker_a3_gaz",
 			"walker_a3_gazblue",
-			"walker_a3_gazblack",
 			"walker_a3_gaztblue",
 			"walker_a3_gaztred",
 			"walker_a3_gaztwhite",
@@ -154,10 +153,7 @@
 			"sab_yak23_1",
 			"sab_tigercat_b",
 			"sab_tigercat_c",
-			"sab_m6a_o",
-			"sab_avio_o",
-			"sab_avio_b",
-			"sab_avio_c"
+			"sab_m6a_o"
 		};
 	};
 	
@@ -276,14 +272,11 @@
 			"sab_ms406",
 			"sab_mustang",
 			"sab_mustang_civ",
-			"sab_natter",
-			"sab_natter2",
 			"sab_p26",
 			"sab_p38",
 			"sab_p39",
 			"sab_p51b",
 			"sab_p61",
-			"sab_s510",
 			"sab_ki100"
 		};
 	};
