@@ -94,7 +94,7 @@ class CfgTraderCategories
 
 Step 7. Find >>>>> class CfgTraders <<<<< And in that Find >>>>> class Exile_Trader_Vehicle <<<<<
 
-and add all 6 of these >>>>> >"HMCSRobots",<>"WalkersA2Cars"< <<<<<. 
+and add both of these >>>>> >"HMCSRobots",<>"WalkersA2Cars"< <<<<<. 
 
 Step 7 Example
 
