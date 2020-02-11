@@ -18,3 +18,7 @@ Add....	   "HMCSRobots",
 Find...    class Exile_Trader_Aircraft
 Add....	   "SABChoppers",
            "SABPlanes"
+
+
+Find...    class Exile_Trader_Boat
+Add....	   "SABWaterPlanes"

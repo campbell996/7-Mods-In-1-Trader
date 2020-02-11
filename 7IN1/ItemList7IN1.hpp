@@ -180,7 +180,6 @@
 	class sab_stampe				                { quality = 1; price = 163; };
 	class sab_trimotor				    	        { quality = 1; price = 164; };
 	class sab_zlin					                { quality = 1; price = 165; };
-	class sab_sikorskys38				    	    { quality = 1; price = 166; };
 	class sab_faallegro					            { quality = 1; price = 167; };
 	class sab_wwi_zeppelin					        { quality = 1; price = 168; };
 	class sab_wwi_blimp				                { quality = 1; price = 169; };
@@ -188,7 +187,6 @@
 	class sab_fokkereiii					        { quality = 1; price = 171; };
 	class sab_fokkervii				    	        { quality = 1; price = 172; };
 	class sab_gotha					                { quality = 1; price = 173; };
-	class sab_hansa					                { quality = 1; price = 174; };
 	class sab_junkers				                { quality = 1; price = 175; };
 	class sab_pfalzxii				    	        { quality = 1; price = 176; };
 	class sab_pup					                { quality = 1; price = 177; };
@@ -203,7 +201,6 @@
 	class sab_vimy2					                { quality = 1; price = 186; };
 	class sab_vimy				                    { quality = 1; price = 187; };
 	class sab_w34				    	            { quality = 1; price = 188; };
-	class sab_w34f					                { quality = 1; price = 189; };
 	class sab_zero				    	            { quality = 1; price = 190; };
 	class sab_a26					                { quality = 1; price = 191; };
 	class sab_a5m					                { quality = 1; price = 192; };
@@ -237,7 +234,6 @@
 	class sab_d510				    	            { quality = 1; price = 220; };
 	class sab_dauntless					            { quality = 1; price = 221; };
 	class sab_do335					                { quality = 1; price = 222; };
-	class sab_f3				                    { quality = 1; price = 223; };
 	class sab_f6f				    	            { quality = 1; price = 224; };
 	class sab_fiatg55					            { quality = 1; price = 225; };
 	class sab_fw190				    	            { quality = 1; price = 226; };
@@ -255,7 +251,6 @@
 	class sab_kate				    	            { quality = 1; price = 238; };
 	class sab_ki61					                { quality = 1; price = 239; };
 	class sab_la5					                { quality = 1; price = 240; };
-	class sab_m6a				                    { quality = 1; price = 241; };
 	class sab_m6av2				    	            { quality = 1; price = 242; };
 	class sab_m6a_2					                { quality = 1; price = 243; };
 	class sab_mb5				    	            { quality = 1; price = 244; };
@@ -275,5 +270,13 @@
 	class sab_s510					                { quality = 1; price = 258; };
 	class sab_ki100				                    { quality = 1; price = 259; };
 
-    ///////////////////////////////////////////////////////////////////////////////
+	///////////////////////////////////////////////////////////////////////////////
+	//SABPlanes
+	///////////////////////////////////////////////////////////////////////////////
+	class sab_sikorskys38				    	    { quality = 1; price = 166; };
+	class sab_hansa					                { quality = 1; price = 174; };
+	class sab_w34f					                { quality = 1; price = 189; };
+	class sab_f3				                    { quality = 1; price = 223; };
+	class sab_m6a				                    { quality = 1; price = 241; };
 	
+	///////////////////////////////////////////////////////////////////////////////

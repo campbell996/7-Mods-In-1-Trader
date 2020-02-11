@@ -132,15 +132,18 @@ class Exile_Trader_Vehicle
 Step 8. Find >>>>> class CfgTraders <<<<< And in that Find >>>>> class Exile_Trader_Aircraft <<<<<
 and add both of these >>>>> > "SABChoppers",<>"SABPlanes" <<<<< Same as above example. except in the >>>>> class Exile_Trader_Aircraft <<<<<. 
 
-Step 9. Download All 7 Of These Mods >>>>> @Flying Circus <> @Flying Machines <> @HMCS Addon <> @Military Aviation <> @Sab Civil Aviation <> @Secret Weapons <> @Walkers A2 Vehicles<<<<< from either the A3Launcher or from the Steam Workshop.
- 
-Step 10. Copy All 7 Of The Mods You Just Downloaded And Add Them To Your Exile Server Root Folder. And Remove All Spacing In The Folders Names.
+Step 9. Find >>>>> class CfgTraders <<<<< And in that Find >>>>> class Exile_Trader_Boat <<<<<
+and add both of these >>>>> > "SABWaterPlanes" <<<<< Same as above example. except in the >>>>> class Exile_Trader_Boat <<<<<. 
 
-Step 10 Example      BEFORE: @HMCS Addon   AFTER: @HMCSAddon
+Step 10. Download All 7 Of These Mods >>>>> @Flying Circus <> @Flying Machines <> @HMCS Addon <> @Military Aviation <> @Sab Civil Aviation <> @Secret Weapons <> @Walkers A2 Vehicles<<<<< from either the A3Launcher or from the Steam Workshop.
  
-Step 11. Add the Bikey's to your server keys folder. If Required.
+Step 11. Copy All 7 Of The Mods You Just Downloaded And Add Them To Your Exile Server Root Folder. And Remove All Spacing In The Folders Names.
+
+Step 11 Example      BEFORE: @HMCS Addon   AFTER: @HMCSAddon
  
-Step 12. Add >>>>> @FlyingCircus;@FlyingMachines;@HMCSAddon;@MilitaryAviation;@SabCivilAviation;@SecretWeapons;@WalkersA2Vehicles; <<<<< to your server start parameter. 
+Step 12. Add the Bikey's to your server keys folder. If Required.
+ 
+Step 13. Add >>>>> @FlyingCircus;@FlyingMachines;@HMCSAddon;@MilitaryAviation;@SabCivilAviation;@SecretWeapons;@WalkersA2Vehicles; <<<<< to your server start parameter.
 
 
 Enjoy........

@@ -196,7 +196,6 @@
 			"sab_stampe",
 			"sab_trimotor",
 			"sab_zlin",
-			"sab_sikorskys38",
 			"sab_faallegro",
 			"sab_wwi_zeppelin",
 			"sab_wwi_blimp",
@@ -204,7 +203,6 @@
 			"sab_fokkereiii",
 			"sab_fokkervii",
 			"sab_gotha",
-			"sab_hansa",
 			"sab_junkers",
 			"sab_pfalzxii",
 			"sab_pup",
@@ -219,7 +217,6 @@
 			"sab_vimy2",
 			"sab_vimy",
 			"sab_w34",
-			"sab_w34f",
 			"sab_zero",
 			"sab_a26",
 			"sab_a5m",
@@ -253,7 +250,6 @@
 			"sab_d510",
 			"sab_dauntless",
 			"sab_do335",
-			"sab_f3",
 			"sab_f6f",
 			"sab_fiatg55",
 			"sab_fw190",
@@ -271,7 +267,6 @@
 			"sab_kate",
 			"sab_ki61",
 			"sab_la5",
-			"sab_m6a",
 			"sab_m6av2",
 			"sab_m6a_2",
 			"sab_mb5",
@@ -290,5 +285,19 @@
 			"sab_p61",
 			"sab_s510",
 			"sab_ki100"
+		};
+	};
+	
+	class SABWaterPlanes
+	{
+		name = "Sab Water Planes";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+		items[] =
+		{
+	        "sab_sikorskys38",
+			"sab_hansa",
+			"sab_w34f",
+			"sab_f3",
+			"sab_m6a"
 		};
 	};
