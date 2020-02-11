@@ -130,7 +130,7 @@ class Exile_Trader_Vehicle
 ////////////////////////////////////////////////////////////////////// 
 
 Step 8. Find >>>>> class CfgTraders <<<<< And in that Find >>>>> class Exile_Trader_Aircraft <<<<<
-and add this >>>>> > "SABChoppers",<>"SABPlanes" <<<<< Same as above example. except in the >>>>> class Exile_Trader_Aircraft <<<<<. 
+and add both of these >>>>> > "SABChoppers",<>"SABPlanes" <<<<< Same as above example. except in the >>>>> class Exile_Trader_Aircraft <<<<<. 
 
 Step 9. Download All 7 Of These Mods >>>>> @Flying Circus <> @Flying Machines <> @HMCS Addon <> @Military Aviation <> @Sab Civil Aviation <> @Secret Weapons <> @Walkers A2 Vehicles<<<<< from either the A3Launcher or from the Steam Workshop.
  
